@@ -1,0 +1,22 @@
+[
+  {
+    "winner":"Mumbai Indians",
+    "total_wins":109
+  },
+  {
+    "winner":"Chennai Super Kings",
+    "total_wins":100
+  },
+  {
+    "winner":"Kolkata Knight Riders",
+    "total_wins":92
+  },
+  {
+    "winner":"Royal Challengers Bangalore",
+    "total_wins":84
+  },
+  {
+    "winner":"Kings XI Punjab",
+    "total_wins":82
+  }
+]
